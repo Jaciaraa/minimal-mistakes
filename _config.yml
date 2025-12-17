@@ -19,6 +19,9 @@ url: "https://jaciaraa.github.io"
 baseurl: "/Jaciaraa"
 
 navigation: main
+header:
+  nav: true
+
 
 # Site Settings
 locale                   : "en-US"
