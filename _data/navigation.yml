@@ -11,5 +11,5 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Projects"
-    url: /projects/
-    #url: https://jaciaraa.github.io/Jaciaraa/projects/
+    #url: /projects/
+    url: /Jaciaraa/projects/
